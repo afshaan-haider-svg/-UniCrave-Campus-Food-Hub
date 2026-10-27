@@ -1,0 +1,152 @@
+[
+  {
+    "id": "item-1",
+    "name": "Classic Anda Paratha Roll",
+    "category": "Breakfast",
+    "price": 140,
+    "description": "Crisp flaky layered paratha rolled with seasoned farm egg, sliced red onions, and tangy mint chutney.",
+    "image": "/images/anda-paratha.svg",
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "item-2",
+    "name": "Halwa Puri Morning Thali",
+    "category": "Breakfast",
+    "price": 220,
+    "description": "Two hot crispy puris served with spiced chana tarkari, sweet semolina halwa, and mixed pickle.",
+    "image": "/images/halwa-puri.svg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "item-3",
+    "name": "Cheese Omelette with Toasted Bread",
+    "category": "Breakfast",
+    "price": 180,
+    "description": "Two-egg fluffy cheese omelette with diced bell peppers and green chillies, served with two buttered bread slices.",
+    "image": "/images/cheese-omelette.svg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "item-4",
+    "name": "Special Canteen Chicken Biryani",
+    "category": "Desi Meals",
+    "price": 320,
+    "description": "Aromatic basmati rice cooked with marinated chicken piece, traditional spices, fresh mint, and served with raita.",
+    "image": "/images/chicken-biryani.svg",
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "item-5",
+    "name": "Homestyle Daal Chawal Plate",
+    "category": "Desi Meals",
+    "price": 190,
+    "description": "Comforting yellow lentil tadka served over fragrant steamed white rice, salad crunch, and spicy mango pickle.",
+    "image": "/images/daal-chawal.svg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "item-6",
+    "name": "Student Mini Chicken Karahi",
+    "category": "Desi Meals",
+    "price": 380,
+    "description": "Sizzling wok-cooked chicken in rich tomato, ginger, and green chilli gravy, served with two hot tandoori rotis.",
+    "image": "/images/chicken-karahi.svg",
+    "available": false,
+    "featured": true
+  },
+  {
+    "id": "item-7",
+    "name": "Crispy Canteen Zinger Burger",
+    "category": "Fast Food",
+    "price": 360,
+    "description": "Golden fried crispy battered chicken thigh fillet with fresh iceberg lettuce, garlic mayo, and toasted sesame bun.",
+    "image": "/images/zinger-burger.svg",
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "item-8",
+    "name": "Grilled Chicken Club Sandwich",
+    "category": "Fast Food",
+    "price": 280,
+    "description": "Triple-layer toasted sandwich stuffed with seasoned shredded chicken, fried egg, cheese slice, and fries.",
+    "image": "/images/club-sandwich.svg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "item-9",
+    "name": "Cheesy Loaded Masala Fries",
+    "category": "Fast Food",
+    "price": 240,
+    "description": "Crisp potato fries dusted in chaat masala, smothered in warm cheddar cheese sauce, jalapenos, and chipotle dip.",
+    "image": "/images/loaded-fries.svg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "item-10",
+    "name": "Special Samosa Chaat Bowl",
+    "category": "Snacks",
+    "price": 130,
+    "description": "Two crushed potato-pea samosas topped with warm spiced chickpeas, sweetened yogurt, tamarind chutney, and sev.",
+    "image": "/images/samosa-chaat.svg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "item-11",
+    "name": "Karachi Shami Egg Bun Kabab",
+    "category": "Snacks",
+    "price": 160,
+    "description": "Pan-fried dal-beef shami patty with whipped egg coating, onion rings, and spicy green chutney in a toasted bun.",
+    "image": "/images/bun-kabab.svg",
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "item-12",
+    "name": "Golden Chicken Puff Patty",
+    "category": "Snacks",
+    "price": 110,
+    "description": "Buttery bakery puff pastry packed with creamy minced chicken filling, served warm with chili garlic sauce.",
+    "image": "/images/chicken-patty.svg",
+    "available": false,
+    "featured": false
+  },
+  {
+    "id": "item-13",
+    "name": "Dhaba Cardamom Karak Chai",
+    "category": "Beverages",
+    "price": 70,
+    "description": "Slow-brewed strong black tea simmered with fresh milk and fragrant green cardamom pods. The ultimate study fuel.",
+    "image": "/images/karak-chai.svg",
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "item-14",
+    "name": "Chilled Mint Margarita Lemonade",
+    "category": "Beverages",
+    "price": 120,
+    "description": "Ice-blended sparkling drink with fresh garden mint leaves, freshly squeezed lemons, black salt, and sprite.",
+    "image": "/images/mint-lemonade.svg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "item-15",
+    "name": "Campus Iced Spanish Latte",
+    "category": "Beverages",
+    "price": 260,
+    "description": "Double shot of rich espresso poured over chilled sweetened condensed milk and fresh dairy milk on the rocks.",
+    "image": "/images/spanish-latte.svg",
+    "available": true,
+    "featured": false
+  }
+]

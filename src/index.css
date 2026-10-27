@@ -1,0 +1,77 @@
+:root {
+  /* Color Palette */
+  --navy-dark: #071324;
+  --navy-primary: #0B1E38;
+  --navy-surface: #132742;
+  --navy-light: #1A3458;
+  --teal-primary: #0D9488;
+  --teal-hover: #0F766E;
+  --teal-light: #CCFBF1;
+  --teal-accent: #14B8A6;
+  --teal-muted: rgba(13, 148, 136, 0.15);
+  
+  /* Neutrals */
+  --bg-page: #F8FAFC;
+  --bg-card: #FFFFFF;
+  --text-dark: #0F172A;
+  --text-body: #334155;
+  --text-muted: #64748B;
+  --text-light: #94A3B8;
+  --border-light: #E2E8F0;
+  --border-subtle: #F1F5F9;
+
+  /* Accent Tones */
+  --gold-primary: #F59E0B;
+  --gold-light: #FEF3C7;
+  
+  /* Shadows */
+  --shadow-xs: 0 1px 2px rgba(11, 30, 56, 0.05);
+  --shadow-sm: 0 2px 4px rgba(11, 30, 56, 0.06);
+  --shadow-md: 0 6px 16px rgba(11, 30, 56, 0.08);
+  --shadow-lg: 0 12px 28px rgba(11, 30, 56, 0.12);
+  --shadow-glow: 0 0 24px rgba(20, 184, 166, 0.25);
+
+  /* Fonts */
+  --font-heading: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-body: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  min-height: 100vh;
+  background-color: var(--bg-page);
+  color: var(--text-dark);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5;
+  overflow-x: hidden;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
